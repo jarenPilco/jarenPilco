@@ -21,3 +21,13 @@ Me interesa convertir ideas en páginas y herramientas que funcionen y se puedan
 | Navegador | Extensiones de Chrome (Manifest V3, `chrome.storage`) | WikiTracker |
 | Servicios externos | Formspree (formularios), Google Maps (mapa incrustado) | Chancho Fest Landing |
 | Control de versiones | Git, GitHub (ramas, pull requests), GitHub Codespaces, GitHub Pages | Todos los proyectos |
+
+## Proyectos destacados
+
+### 1. Chancho Fest Landing
+
+- **Qué resuelve:** presenta un evento gastronómico y recoge la opinión del público con una encuesta.
+- **Tecnologías:** HTML5, CSS3, plantilla Directive de HTML5 UP, Formspree, Google Maps.
+- **Funcionalidades:** estructura semántica, formulario de encuesta con validaciones, mapa de la ubicación y multimedia con créditos.
+- **Repositorio:** [chancho-fest-landing](https://github.com/marandradec/chancho-fest-landing)
+- **Demo:** [Ver sitio publicado](https://marandradec.github.io/chancho-fest-landing/)
