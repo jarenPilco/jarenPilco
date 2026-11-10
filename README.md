@@ -11,3 +11,13 @@ Me interesa convertir ideas en páginas y herramientas que funcionen y se puedan
 - Manejo de base de datos.
 - Creación y diseño de software.
 - Buenas prácticas de Git y documentación.
+## Habilidades y tecnologías
+
+| Área | Tecnologías | Dónde las apliqué |
+|------|-------------|-------------------|
+| Estructura y estilo | HTML5 semántico, CSS3, Flexbox, Grid, diseño adaptable con `@media` | Chancho Fest Landing |
+| Programación web | JavaScript (DOM, eventos), TypeScript, Vite | WikiTracker, Dashboard del clima |
+| Datos | Python, pandas, API REST (Open-Meteo) | Dashboard de accidentes de tránsito, Dashboard del clima |
+| Navegador | Extensiones de Chrome (Manifest V3, `chrome.storage`) | WikiTracker |
+| Servicios externos | Formspree (formularios), Google Maps (mapa incrustado) | Chancho Fest Landing |
+| Control de versiones | Git, GitHub (ramas, pull requests), GitHub Codespaces, GitHub Pages | Todos los proyectos |
