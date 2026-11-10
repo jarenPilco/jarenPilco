@@ -31,3 +31,10 @@ Me interesa convertir ideas en páginas y herramientas que funcionen y se puedan
 - **Funcionalidades:** estructura semántica, formulario de encuesta con validaciones, mapa de la ubicación y multimedia con créditos.
 - **Repositorio:** [chancho-fest-landing](https://github.com/marandradec/chancho-fest-landing)
 - **Demo:** [Ver sitio publicado](https://marandradec.github.io/chancho-fest-landing/)
+
+### 2. WikiTracker
+
+- **Qué resuelve:** registra qué secciones de un artículo de Wikipedia ha visto el lector al hacer scroll.
+- **Tecnologías:** JavaScript, Manifest V3, content scripts, `chrome.storage.local`.
+- **Funcionalidades:** lee el título del artículo, detecta los `h2` visibles, evita duplicados y guarda el resultado en el navegador.
+- **Repositorio:** [wikitracker](https://github.com/TU-USUARIO/wikitracker)
