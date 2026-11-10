@@ -45,3 +45,11 @@ Me interesa convertir ideas en páginas y herramientas que funcionen y se puedan
 - **Tecnologías:** Python, pandas, dataset *Traffic Accidents* de Kaggle.
 - **Funcionalidades:** limpieza de datos (fechas, duplicados, categorías desconocidas) y diseño con KPI, gráficos, tabla de detalle y filtros.
 - **Repositorio:** [dashboard-accidentes-transito](https://github.com/TU-USUARIO/dashboard-accidentes-transito)
+
+## Contacto
+
+| Canal | Enlace |
+|-------|--------|
+| GitHub | [github.com/jarenPilco](https://github.com/jarenPilco) |
+| LinkedIn | Robert Pilco Almeida (https://www.linkedin.com/in/robert-pilco-almeida-798582337/) |
+| Correo | rjpilco@espol.edu.ec |
