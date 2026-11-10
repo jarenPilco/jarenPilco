@@ -38,3 +38,10 @@ Me interesa convertir ideas en páginas y herramientas que funcionen y se puedan
 - **Tecnologías:** JavaScript, Manifest V3, content scripts, `chrome.storage.local`.
 - **Funcionalidades:** lee el título del artículo, detecta los `h2` visibles, evita duplicados y guarda el resultado en el navegador.
 - **Repositorio:** [wikitracker](https://github.com/TU-USUARIO/wikitracker)
+
+### 3. Dashboard de accidentes de tránsito
+
+- **Qué resuelve:** permite explorar y monitorear accidentes de tránsito según clima e iluminación (proyecto en pareja).
+- **Tecnologías:** Python, pandas, dataset *Traffic Accidents* de Kaggle.
+- **Funcionalidades:** limpieza de datos (fechas, duplicados, categorías desconocidas) y diseño con KPI, gráficos, tabla de detalle y filtros.
+- **Repositorio:** [dashboard-accidentes-transito](https://github.com/TU-USUARIO/dashboard-accidentes-transito)
