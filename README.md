@@ -11,16 +11,33 @@ Me interesa convertir ideas en páginas y herramientas que funcionen y se puedan
 - Manejo de base de datos.
 - Creación y diseño de software.
 - Buenas prácticas de Git y documentación.
+
+---
+
 ## Habilidades y tecnologías
 
-| Área | Tecnologías | Dónde las apliqué |
-|------|-------------|-------------------|
-| Estructura y estilo | HTML5 semántico, CSS3, Flexbox, Grid, diseño adaptable con `@media` | Chancho Fest Landing |
-| Programación web | JavaScript (DOM, eventos), TypeScript, Vite | WikiTracker, Dashboard del clima |
-| Datos | Python, pandas, API REST (Open-Meteo) | Dashboard de accidentes de tránsito, Dashboard del clima |
-| Navegador | Extensiones de Chrome (Manifest V3, `chrome.storage`) | WikiTracker |
-| Servicios externos | Formspree (formularios), Google Maps (mapa incrustado) | Chancho Fest Landing |
-| Control de versiones | Git, GitHub (ramas, pull requests), GitHub Codespaces, GitHub Pages | Todos los proyectos |
+Tecnologías que aprendí en el curso y cómo las apliqué en mis proyectos.
+
+### Desarrollo web
+
+- **HTML5 semántico:** estructura, formulario con validaciones, video y mapa incrustado en Chancho Fest Landing.
+- **CSS3, Flexbox y Grid:** maquetación y diseño adaptable con `@media` en prácticas de Flexbox y Grid y en Chancho Fest Landing.
+- **JavaScript (DOM y eventos):** lectura de secciones de un artículo y detección de scroll en WikiTracker.
+- **TypeScript y Vite:** tipos e interfaces en una práctica de canciones y base del dashboard del clima.
+- **Extensiones de Chrome (Manifest V3):** content script y `chrome.storage` en WikiTracker.
+
+### Datos y servicios
+
+- **Python y pandas:** limpieza de datos del dashboard de accidentes de tránsito.
+- **API REST (Open-Meteo):** datos del clima de Guayaquil para el dashboard del clima.
+- **Formspree y Google Maps:** envío de la encuesta y mapa de la ubicación en Chancho Fest Landing.
+
+### Herramientas
+
+- **Git y GitHub:** ramas y pull requests en mis proyectos.
+- **GitHub Codespaces y GitHub Pages:** entorno de desarrollo en la nube y publicación de sitios.
+
+---
 
 ## Proyectos destacados
 
